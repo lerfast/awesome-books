@@ -14,7 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Gettin Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -46,15 +45,6 @@
 ### Key Features <a name="key-features"></a>
 
 - **[RWD]**
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [See live] Coming soon~
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,8 +135,6 @@ If you like this project, contact me for any business project.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-Credits to Cindy Shin, the author of the [Original Design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 I would like to thank microverse.org for giving me this oportunity.
 
