@@ -1,3 +1,47 @@
+body {
+  text-align: center;
+}
+
 h1 {
   font-size: 20px;
+  text-align: center;
+}
+
+#bookList {
+  border: 2px solid black;
+  padding: 0;
+  margin: 16px 0;
+}
+
+.spanline1 {
+  display: flex;
+  width: 20%;
+  height: 2px;
+  background-color: black;
+  margin-left: 40%;
+  margin-bottom: 16px;
+}
+
+.book {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 24px;
+  padding-left: 4px;
+}
+
+.removeButton {
+  height: 20px;
+}
+
+.grey {
+  background-color: rgb(204, 204, 204);
+}
+
+#title, #author {
+  margin: 8px;
+}
+
+#form {
+  
 }
