@@ -38,10 +38,7 @@ h1 {
   background-color: rgb(204, 204, 204);
 }
 
-#title, #author {
+#title,
+#author {
   margin: 8px;
-}
-
-#form {
-  
 }

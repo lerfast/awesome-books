@@ -19,7 +19,7 @@ class BookCollection {
     this.bookList.forEach((book, index) => {
       const bookDiv = document.createElement('div');
       bookDiv.classList.add('book');
-      if (index % 2 != 0) bookDiv.classList.add('grey');
+      if (index % 2 !== 0) bookDiv.classList.add('grey');
       bookDiv.innerHTML = `<p>"${book.title}" by ${book.author}</p><button class="removeButton" data-index="${index}">Remove Book</button>`;
       bookListElement.appendChild(bookDiv);
     });
