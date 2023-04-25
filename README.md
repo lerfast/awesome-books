@@ -65,24 +65,11 @@ Install Google Chrome or any browser that supports the above.
 
 ### Setup
 
-You don't need to setup this project
-
-### Install
-
-You don't need to install this project
+Clone with the link https://github.com/lerfast/awesome-books.git
 
 ### Usage
 
-To run the project, execute the index.html
---->
-
-### Run tests
-
-You don't need to run tests
-
-### Deployment
-
-You don't need to deploy this project
+Copy path of the index.html and paste it on any browser
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,6 +131,6 @@ I would like to thank microverse.org for giving me this oportunity.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
